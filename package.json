@@ -1,0 +1,16 @@
+{
+  "name": "@caeser1996/haversine",
+  "version": "3.0.1",
+  "description": "Calculate distance between Two Coordinates using haversine",
+  "license": "MIT",
+  "repository": "caeser1996/haversine",
+  "main": "index.js",
+  "keywords": [
+    "haversine",
+    "distance",
+    "long",
+    "npm",
+    "package",
+    "caeser1996"
+  ]
+}
